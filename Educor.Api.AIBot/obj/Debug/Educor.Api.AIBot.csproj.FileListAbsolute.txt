@@ -1,0 +1,49 @@
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\Bot Application.dll.config
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\Bot Application.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\Bot Application.pdb
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\Autofac.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\Chronic.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\Educor.Api.Data.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\EntityFramework.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\EntityFramework.SqlServer.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\Microsoft.Bot.Builder.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\Microsoft.Bot.Connector.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\Newtonsoft.Json.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\System.Net.Http.Formatting.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\System.Web.Http.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\System.Web.Http.WebHost.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\Educor.Api.Base.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\libphonenumber.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\Educor.Api.Data.pdb
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\Autofac.xml
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\EntityFramework.xml
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\EntityFramework.SqlServer.xml
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\Microsoft.Bot.Builder.xml
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\Microsoft.Bot.Connector.xml
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\Newtonsoft.Json.xml
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\System.Net.Http.Formatting.xml
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\System.Web.Http.xml
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\System.Web.Http.WebHost.xml
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\Educor.Api.Base.pdb
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\obj\Debug\Educor.Api.AIBot.csprojResolveAssemblyReference.cache
+C:\Dev\EducorApi\Educor.Api.AIBot\obj\Debug\Bot Application.dll
+C:\Dev\EducorApi\Educor.Api.AIBot\obj\Debug\Bot Application.pdb
